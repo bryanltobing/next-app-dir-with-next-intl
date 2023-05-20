@@ -2,8 +2,6 @@ import { useLocale } from "next-intl";
 import { notFound } from "next/navigation";
 import { PropsWithChildren } from "react";
 
-import "../globals.css";
-
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
