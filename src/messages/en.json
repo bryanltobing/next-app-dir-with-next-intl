@@ -4,5 +4,7 @@
   "plural": "You have {numMessages, plural, =0 {no messages} =1 {one message} other {# messages}}.",
   "select": "{gender, select, female {She} male {He} other {They}} is online.",
   "selectordinal": "It's your {year, selectordinal, one {#st} two {#nd} few {#rd} other {#th}} birthday!",
-  "escaped": "Escape curly braces with single quotes (e.g. '{name'})"
+  "escaped": "Escape curly braces with single quotes (e.g. '{name'})",
+  "Getting Started": "Getting Started",
+  "Deploy": "Deploy"
 }

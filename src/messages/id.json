@@ -4,5 +4,7 @@
   "plural": "Kamu {numMessages, plural, =0 {tidak memiliki pesan} =1 {memiliki satu pesan} other {memiliki # pesan}}.",
   "select": "{gender, select, female {Dia(Perempuan)} male {Dia(Laki-Laki)} other {Mereka}} sedang online.",
   "selectordinal": "Itu ulang tahun mu ke {year, selectordinal, one {#} two {#} few {#rd} other {#}}!",
-  "escaped": "Lepaskan tanda kurung kurawal dengan tanda kutip tunggal (e.g. '{nama'})"
+  "escaped": "Lepaskan tanda kurung kurawal dengan tanda kutip tunggal (e.g. '{nama'})",
+  "Getting Started": "Mulai Sekarang",
+  "Deploy": "Kirimkan"
 }
